@@ -19,6 +19,10 @@ Prompt enginner is much maligned today, but Sam Altman said that prompt engineer
 
 <div data-full-width="false"><figure><img src="https://images.unsplash.com/photo-1675557010061-315772f6efef?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxvcGVuYWl8ZW58MHx8fHwxNzQ5MTQ5NjUyfDA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure></div>
 
-### Sync a repository
+### Understanding Mediapipe
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+Mediapipe are 13 ml problems solved by google which yuo can use to directly load a project on your web app.&#x20;
+
+### Understanding function calling
+
+Function calling is the architecture used by google for prompt engineering.&#x20;
