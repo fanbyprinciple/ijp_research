@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Understanding AI as a user](getting-started/quickstart.md)
+* [Understanding AI landscape](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics

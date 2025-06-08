@@ -22,3 +22,5 @@ layout:
 # Welcome
 
 This repository is being made to search about the latest and greatest in mobile apps and AI. Its as much to explore as to learn. At the end of th eordeal the idea is to come up with an app that can deliver scalable AI model.
+
+{% embed url="https://app.gitbook.com/o/xAhEQs3aMrAuigOpQ8fj/s/MgdkLMCiUtOtCjARessx/" %}
