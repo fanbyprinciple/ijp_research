@@ -1,11 +1,9 @@
 ---
-description: Terminology and resources
+description: Terminology and resources at a glance
 icon: bullseye-arrow
 ---
 
-# Understanding AI landscape
-
-
+# Understanding the AI landscape
 
 {% hint style="info" %}
 These are all random items, they are not sequential, I am just trying to map it all here.
@@ -81,8 +79,25 @@ Using MLX
 
 Using Axolotl
 
+Using PEFT
+
 
 
 Using Unsloth
 
+{% embed url="https://github.com/vossenwout/llm-finetuning-resources" %}
+
 {% embed url="https://www.youtube.com/watch?v=Lt7KrFMcCis&t=120s" %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+### Using mediapipe
+
+{% embed url="https://www.youtube.com/watch?v=NiK5wHce03Y&list=PLOU2XLYxmsILVnjfBvtTWZC4YiHBwz-4l&index=11" %}
+
+
+
