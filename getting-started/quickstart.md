@@ -11,6 +11,10 @@ icon: bullseye-arrow
 These are all random items, they are not sequential, I am just trying to map it all here.
 {% endhint %}
 
+### Finding models that you want
+
+{% embed url="https://lmstudio.ai/" %}
+
 ### The Prompt Engineer
 
 In AI, the prompt engineer designs and optimizes prompts for AI models to yield specific outputs. As AI improves, it requires precise prompts for desired results, dealing with human language ambiguity and balancing creativity with precision. Key challenges include minimizing biases from training data and understanding AI instruction interpretation. Skilled prompt engineers are critical as AI expands, aligning human intent with machine understanding and enhancing AI reliability
@@ -51,9 +55,34 @@ Gemma on Android brings advanced language processing capabilities directly to mo
 
 {% embed url="https://medium.com/google-developer-experts/part-3-deploy-gemma-on-android-5bac532c54b7" %}
 
+Issue with bits and bytes need to find alternative resource.
+
+{% embed url="https://www.youtube.com/watch?v=DbwWEt32CJU" %}
+
+{% embed url="https://medium.com/@magesh27/simple-react-app-ui-to-connect-with-local-gemma-model-via-lm-studio-c746c8a996f5" %}
+
+
+
 ### Gemma 3n on mobile
 
 Using Termex to run Gemma 3
 
 {% embed url="https://www.youtube.com/watch?v=C6ZNXrD0xVU" %}
 
+## Finetuning
+
+why?
+
+Finetuning is the process of taking a pre-trained machine learning model and further training it on a specific task or dataset to improve its performance for that task. This is often done to leverage the general knowledge the model has already acquired and adapt it to new, more specific requirements. By finetuning, you can enhance the accuracy and efficiency of the model in real-world applications, allowing it to produce better results tailored to your specific needs.
+
+Using MLX
+
+{% embed url="https://www.youtube.com/watch?v=3UQ7GY9hNwk" %}
+
+Using Axolotl
+
+
+
+Using Unsloth
+
+{% embed url="https://www.youtube.com/watch?v=Lt7KrFMcCis&t=120s" %}
