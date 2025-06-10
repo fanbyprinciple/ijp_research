@@ -11,6 +11,6 @@ You can publish your site and find related settings from your docs site's homepa
 
 {% embed url="https://studio.firebase.google.com/studio-4735618649" %}
 
-{% embed url="https://www.youtube.com/watch?v=ar37oypyATQ" %}
+{% embed url="https://www.youtube.com/watch?v=EH5jx5qPabU&t=561s" %}
 
 {% embed url="https://www.youtube.com/watch?v=ZHdkWmKgCEA" %}
