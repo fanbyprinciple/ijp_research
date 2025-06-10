@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Understanding the AI landscape](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Letting AI do the heavy liftin](getting-started/publish-your-docs.md)
 
 ## Basics
 
