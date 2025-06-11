@@ -11,11 +11,15 @@ These are all random items, they are not sequential, I am just trying to map it 
 
 ### Finding models that you want
 
+{% embed url="https://aistudio.google.com/apps" %}
+
 {% embed url="https://lmstudio.ai/" %}
 
 ### The Prompt Engineer
 
 In AI, the prompt engineer designs and optimizes prompts for AI models to yield specific outputs. As AI improves, it requires precise prompts for desired results, dealing with human language ambiguity and balancing creativity with precision. Key challenges include minimizing biases from training data and understanding AI instruction interpretation. Skilled prompt engineers are critical as AI expands, aligning human intent with machine understanding and enhancing AI reliability
+
+{% embed url="https://docs.anthropic.com/en/resources/prompt-library/library" %}
 
 {% embed url="https://github.com/anthropics/prompt-eng-interactive-tutorial" %}
 
