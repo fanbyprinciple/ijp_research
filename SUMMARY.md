@@ -9,7 +9,7 @@
 
 ## Basics
 
-* [Editor](basics/editor.md)
+* [Using FASTAPI with react native to render elements](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)

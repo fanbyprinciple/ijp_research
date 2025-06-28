@@ -2,37 +2,43 @@
 icon: pen-to-square
 ---
 
-# Editor
+# Using FASTAPI with react native to render elements
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+{% embed url="https://www.youtube.com/watch?v=Z5kgcBNrcGU" %}
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+#### Benefits of FastAPI
 
-### Writing content
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. It offers several benefits that make it an appealing choice for developers looking to build APIs efficiently and effectively.
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+**High Performance**
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+FastAPI is one of the fastest web frameworks available due to its ability to handle requests efficiently using asynchronous programming. It supports asynchronous I/O and is powered by Starlette for the web parts and Pydantic for the data parts, allowing for quick user response times and the ability to handle hundreds of requests per second.
 
-### Add a new block
+**Easy to Use**
 
-{% stepper %}
-{% step %}
-### Open the insert block menu
+One of FastAPI's standout features is its simplicity and user-friendly design. It automates many common tasks, such as data validation and serialization, through the use of Pydantic models. This reduces boilerplate code and allows developers to focus on writing business logic.
 
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
+**Automatic Interactive API Documentation**
 
-{% step %}
-### Search for the block you need&#x20;
+FastAPI automatically generates interactive documentation from your code, thanks to its support of OpenAPI (formerly known as Swagger). This means developers can quickly access and test API endpoints through a user-friendly web interface, enhancing developer productivity and collaboration.
 
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
+**Robust Type Checking**
 
-{% step %}
-### Insert and edit your block
+FastAPI takes full advantage of Python's type hinting to provide robust type-checking capabilities, making your code much less prone to errors. The use of type hints ensures a clear and readable codebase, aiding in both development and maintenance phases, as well as enabling intelligent code editors to provide better suggestions and checks.
 
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
+**Dependency Injection System**
+
+The built-in dependency injection system is powerful yet straightforward, promoting code reusability and simplicity. This system allows for clean and maintainable code by enabling developers to manage dependencies elegantly, which is particularly useful in large-scale applications.
+
+**Versatility**
+
+FastAPI can be used for a wide range of applications, from simple web services to large-scale enterprise solutions. Its flexibility allows developers to start small and seamlessly scale their applications as needed, without a drop in performance or developer experience.
+
+**Active Community and Rich Ecosystem**
+
+FastAPI has an active and growing community, which contributes to a rich ecosystem of extensions and tools. The support from the community facilitates the rapid development of new features and keeps the framework up-to-date with the latest web standards and practices.
+
+These characteristics make FastAPI a versatile and efficient choice for developers who need to quickly build robust APIs with ease and scalability in
+
+
 
